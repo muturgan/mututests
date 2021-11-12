@@ -1,0 +1,29 @@
+{
+  "name": "mututests",
+  "version": "1.0.0",
+  "description": "a fork of the metarhia/metatests that solves a typings issue",
+  "author": "Andrey Sakharov <caxap_8787@mail.ru> (https://www.linkedin.com/in/andrey-sakharov/)",
+  "license": "MIT",
+  "main": "index.js",
+  "types": "types/metatests.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muturgan/mututests.git"
+  },
+  "keywords": [
+    "test",
+    "testing",
+    "unittesting",
+    "unit-testing",
+    "tdd",
+    "tap",
+    "metarhia"
+  ],
+  "bugs": {
+    "url": "https://github.com/muturgan/mututests/issues"
+  },
+  "homepage": "https://github.com/muturgan/mututests#readme",
+  "dependencies": {
+    "metatests": "^0.7.2"
+  }
+}
