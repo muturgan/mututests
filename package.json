@@ -1,7 +1,7 @@
 {
   "name": "mututests",
   "version": "1.0.0",
-  "description": "a fork of the metarhia/metatests that solves a typings issue",
+  "description": "an alias of the metarhia/metatests that solves a typings issue",
   "author": "Andrey Sakharov <caxap_8787@mail.ru> (https://www.linkedin.com/in/andrey-sakharov/)",
   "license": "MIT",
   "main": "index.js",
