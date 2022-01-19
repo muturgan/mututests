@@ -1,13 +1,13 @@
 {
   "name": "mututests",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "an alias of the metarhia/metatests that solves a typings issue",
   "author": "Andrey Sakharov <caxap_8787@mail.ru> (https://www.linkedin.com/in/andrey-sakharov/)",
   "license": "MIT",
   "main": "index.js",
   "types": "types/metatests.d.ts",
   "scripts": {
-    "postinstall": "echo \"a typings issue was solved with metatests v0.8.0 so you don't need to use this wrapper anymore\""
+    "postinstall": "echo \"\n[mututests] a typings issue was solved with metatests v0.8.0 so you don't need to use this wrapper anymore\n\""
   },
   "repository": {
     "type": "git",
